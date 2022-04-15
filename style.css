@@ -1,0 +1,18 @@
+body{
+    background-image:url("bg.webp");
+    font-family: 'Rubik Wet Paint', cursive;
+}
+button{
+    font-family: 'Rubik Wet Paint', cursive;
+    border-radius:15px;
+    font-size:15px;
+    background-color:rgb(141, 241, 241);
+}
+h1{
+    border:5px ridge black;
+    box-shadow:5px 5px 5px pink;
+}
+canvas{
+    border:5px solid black;
+    margin-top:75px;
+}
